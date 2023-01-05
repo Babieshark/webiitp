@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+
+
+
+*{
+  margin-left: 10%;
+}
+
+body{
+  background-color: rgb(164,222,222);
+
+}
+.content{
+
+
+ background-size: 80%;
+ font-size: 30px;
+ font-family: 'Pacifico', cursive;
+
+
+}
+input{
+  width: 50%;
+  padding:8px;
+  margin: 15px;
+  border:none;
+  border-bottom: 2px solid rgb(49,0,245);
+  border-left: 2px solid rgb(49,0,245);
+
+}
+textarea{
+  width:80%;
+  height:200px;
+margin-left: -88px;
+font-family: emoji;
+    font-size: large;
+}
+button{
+  width:30%;
+  padding:8px;
+  margin: 15px;
+  background-color: mediumblue;
+    color: white;
+}
+input[type="radio"] {
+    margin-left: -132px;
+}
+
+
+
+
+ label[ for="work"]{
+  margin-left: -249px;
+ }
+
+
+form{
+  padding:4%;
+  font-family: 'Pacifico', cursive;
+}
